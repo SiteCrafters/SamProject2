@@ -186,6 +186,7 @@ span {
 .heading {
     text-align: center;
     font-size: 4.5rem;
+    color: var(--text-color2);
 }
 
 .about-content h2 {
@@ -339,7 +340,7 @@ span {
     margin-bottom: 3rem;
 }
 
-.contact form {
+/* .contact form {
     max-width: 70rem;
     margin: 1rem auto;
     text-align: center;
@@ -374,19 +375,19 @@ span {
 .contact form .btn {
     margin-top: 2rem;
     cursor: pointer;
-}
+} */
 
 .contact-info{
     text-align: center;
     flex-basis: 45%;
     padding: 10px;
     margin-bottom: 20px;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
-.website{
+/* .website{
     font-size: 2rem;
-}
+} */
 
 
 
